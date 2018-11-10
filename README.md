@@ -1,3 +1,3 @@
 # MyCurriculum
-Curriculum_Efrain_Vargas
-Esto ha sido realizado por Efrain Vargas
+Curriculum_Efrain_Vargas 
+ha sido realizado por Efrain Vargas
