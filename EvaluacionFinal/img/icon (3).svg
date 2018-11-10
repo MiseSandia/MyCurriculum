@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <text fill="#000000" font-family="serif" font-size="39" id="svg_5" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(28.4417 0 0 7.14008 -3215.4 -565.559)" x="122.5" xml:space="preserve" y="113.5"/>
+  <text fill="#000000" font-family="serif" font-size="24" id="svg_8" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(8.50662 0 0 6.80947 -490.636 -724.492)" x="80.548616" xml:space="preserve" y="129.11891">E</text>
+  <text fill="#ff0000" font-family="serif" font-size="24" id="svg_9" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(11.0766 0 0 7.25448 -1990.39 -598.666)" x="208.400944" xml:space="preserve" y="103.281932">v</text>
+  <polygon cx="326.308615" cy="70.292981" fill="#ffff00" id="svg_14" orient="point" point="5" points="455.695 24.253 472.176 71.5012 522.361 72.5204 482.361 102.741 496.897 150.619 455.695 122.047 414.493 150.619 429.029 102.741 389.029 72.5204 439.214 71.5012 455.695 24.253 472.176 71.5012" r="80.906433" r2="32.362573" shape="star" stroke="#000000" stroke-width="0" strokeWidth="0" strokecolor="#000000" transform="rotate(0.00558173 455.695 87.4358)"/>
+  <polygon cx="408.339867" cy="52.714856" fill="#ffff00" id="svg_16" orient="point" point="5" points="70.44924926757812,21.078514099121094 87.3011474609375,69.55927276611328 138.61663818359375,70.60499572753906 97.7161865234375,101.61348724365234 112.5789794921875,150.74053955078125 70.44924926757812,121.42407989501953 28.319488525390625,150.74053955078125 43.18231201171875,101.61348724365234 2.281890869140625,70.60499572753906 53.59735107421875,69.55927276611328 70.44924926757812,21.078514099121094 87.3011474609375,69.55927276611328 " r="71.675403" r2="28.670161" shape="star" stroke="#000000" stroke-width="0" strokeWidth="0" strokecolor="#000000"/>
+ </g>
+</svg>
